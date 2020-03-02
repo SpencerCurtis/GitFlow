@@ -1,0 +1,25 @@
+//
+//  ViewController.swift
+//  GitFlow
+//
+//  Created by Spencer Curtis on 3/2/20.
+//  Copyright © 2020 Lambda School. All rights reserved.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
+        // Spencer Curtis
+    }
+=======
+    }   // Ryan Murphy
+>>>>>>> 0568f208013c8a7e9f830497f6f5e2a750dc4e37
+
+
+}
+
